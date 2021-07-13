@@ -1,0 +1,1 @@
+prog2_20191219_exercise/exercise01を1-NNからk-NNに変更した

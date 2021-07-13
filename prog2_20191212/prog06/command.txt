@@ -1,0 +1,1 @@
+grep FUKUSHIMA h2011.txt > h2011_fukushima.txt

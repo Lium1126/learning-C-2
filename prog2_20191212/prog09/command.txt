@@ -1,0 +1,1 @@
+grep FUKUSHIMA h2011.txt | cut -c 62 | grep -E '[7A-D]' | wc -l

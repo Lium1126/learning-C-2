@@ -1,0 +1,1 @@
+cut -f 4 -d , h2011_eq.csv | sed 's/\..*//g' | sort > h2011_eq_latitude_sorted.txt
